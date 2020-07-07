@@ -1,0 +1,17 @@
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+}
+.img-js{
+    width: 400px;
+    height: 250px;
+}
+
+.valid{
+  border: 2px solid springgreen;
+}
+.invalid{
+    border: 2px solid red;
+}
